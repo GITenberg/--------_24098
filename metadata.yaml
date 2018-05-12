@@ -1,0 +1,31 @@
+_repo: '--------_24098'
+_version: 0.1.0
+alternative_title: Jin gang ban ruo bo luo mi jing
+contributor:
+  annotator:
+    agent_name: Huang, Kunshan
+    alias: 黃崑山
+    gutenberg_agent_id: '31249'
+    url: http://www.gutenberg.org/2009/agents/31249
+  translator:
+    agent_name: Kumarajiva
+    gutenberg_agent_id: '31248'
+    url: http://www.gutenberg.org/2009/agents/31248
+    wikipedia: http://en.wikipedia.org/wiki/Kumarajiva
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2008-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24098'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buddhism -- Sacred books'
+- !lcc 'BQ'
+title: 金剛般若波羅蜜經
+url: http://www.gutenberg.org/ebooks/24098
